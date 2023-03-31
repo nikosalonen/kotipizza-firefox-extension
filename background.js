@@ -80,12 +80,17 @@ browser.webRequest.onCompleted.addListener(
   filter, extraInfoSpec
 );
 function createNotification(restaurant) {
-  self.registration.showNotification('🍕 Pizza time!', {
-    icon: 'icon128.png',
-    body: `Toimitusmaksu ravintolassa ${restaurant.displayName} on nyt ${restaurant.dynamicDeliveryFee}€! \nToimitusarvio on ${restaurant.currentDeliveryEstimate} minuttia.`
+  const title = '🍕 Pizza time!';
+  const message = `Toimitusmaksu ravintolassa ${restaurant.displayName} on nyt ${restaurant.dynamicDeliveryFee}€! \nToimitusarvio on ${restaurant.currentDeliveryEstimate} minuttia.`;
 
+  browser.notifications.create('pizzaTime', {
+    type: 'basic',
+    iconUrl: 'assets/icon128.png',
+    title: title,
+    message: message,
   });
 }
+
 
 
 self.addEventListener('notificationclick', (event) => {
