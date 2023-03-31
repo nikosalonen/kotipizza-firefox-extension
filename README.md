@@ -25,4 +25,4 @@ Extension polls the delivery info endpoint every 5 minutes and gives browser not
 
 ## Download from Firefox addons
 
-Link soon
+https://addons.mozilla.org/fi/firefox/addon/kotipizza-toimitusmaksuh%C3%A4lytin/
