@@ -8,7 +8,8 @@ Icon by Satawat Foto Anukul https://freeicons.io/profile/103766
 
 ## How to
 
-![image](https://user-images.githubusercontent.com/185737/228777573-2670de9c-13f6-4cc7-8357-a37eecf9931b.png)
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/185737/229135594-4168f484-f735-46b6-b4f2-6718bd8e2b06.png">
+
 
 
 
@@ -19,9 +20,9 @@ Icon by Satawat Foto Anukul https://freeicons.io/profile/103766
 
 Extension polls the delivery info endpoint every 5 minutes and gives browser notification when delivery fee is at or below treshold.
 
-![image](https://user-images.githubusercontent.com/185737/227783217-92709826-c4a2-4e92-be0d-926039c5ef7c.png)
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/185737/229135816-89d29424-2677-4719-a1e9-c46fbb9feb62.png">
 
 
-## Download from Chrome web store
+## Download from Firefox addons
 
-https://chrome.google.com/webstore/detail/kotipizza-toimitusmaksuh%C3%A4/feiimdjbghdpmkdkphpmlnmamkknlmjp?hl=fi&authuser=0
+Link soon
