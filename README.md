@@ -1,4 +1,4 @@
-# kotipizza-chrome-extension
+# kotipizza-firefox-extension
 Get notifications for nearby Kotipizza restaurants with delivery fees below a set threshold.
 
 Font downloaded from https://fontsgeek.com/fonts/bentonsans-comp-black-regular
