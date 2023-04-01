@@ -2,7 +2,6 @@ const API_URL = 'https://apim-kotipizza-ecom-prod.azure-api.net/webshop/v1/resta
 let pollingTimeoutID;
 
 function updateIcon(alertEnabled) {
-  console.log('updateIcon')
   const iconPath = alertEnabled ? 'assets/icon128.png' : 'assets/icon128-grayscale.png';
   browser.browserAction.setIcon({ path: iconPath });
 }
