@@ -1,3 +1,5 @@
+# Code moved to https://github.com/nikosalonen/kotipizza-browser-extension
+
 # kotipizza-firefox-extension
 Get notifications for nearby Kotipizza restaurants with delivery fees below a set threshold.
 
